@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Imigração para Brasileiros",
+  "description": "Um guia completo e interativo de imigração para brasileiros, com mapa interativo de nações, simulador de elegibilidade de vistos, passo-a-passo detalhado e links de canais consulares oficiais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
